@@ -1,3 +1,11 @@
+##Movierama
+
+### Description
+
+Movierama is a movie-organizing app. With it, users can sort a movie collection by category, in ascending or descending name order, by genre, by items in stock, or by rental price. Further, users can search through the movie collection for a movie title and add new movies to the collection.
+
+## Software
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
